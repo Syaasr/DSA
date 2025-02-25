@@ -32,11 +32,6 @@ void calculator(){
 }
 
 int main(){
-    char quit = 'y';
-    while (quit != 'q') {
-        calculator();
-        printf("Apakah ingin menggunakan kalkulator lagi ? (q untuk quit) : ");
-        scanf(" %c", &quit);
-    }
+    calculator();
     return 0;
 }
