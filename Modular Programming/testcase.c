@@ -47,7 +47,7 @@ void testcase() {
     printf("%s\n", divide(-10, 2) == -5 ? "PASS" : "FAIL");
     printf("%s\n", divide(0, 10) == 0 ? "PASS" : "FAIL");
     printf("%s\n", divide(-100, -10) == 10 ? "PASS" : "FAIL");
-    printf("%s\n", divide(1234, 12) == 1028.75 ? "PASS" : "FAIL");
+    printf("%s\n", divide(1234, -1234) == -1 ? "PASS" : "FAIL");
     printf("%s\n", divide(500, 500) == 1 ? "PASS" : "FAIL");
     printf("%s\n", divide(1225, 0) == 0 ? "PASS" : "FAIL");
     printf("%s\n", divide(0, 0) == 0 ? "PASS" : "FAIL");
