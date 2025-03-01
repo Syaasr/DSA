@@ -5,7 +5,7 @@ void testcase() {
     printf("Running Test Cases...\n");
 
     printf("\nTesting add()...\n");
-    printf("%s\n", add(23, 12) == 35 ? "PASS" : "FAIL");
+    printf("%s\n", add(2, 12) == -10 ? "PASS" : "FAIL");
     printf("%s\n", add(12, 25) == 37 ? "PASS" : "FAIL");
     printf("%s\n", add(1225, 2389) == 3614 ? "PASS" : "FAIL");
     printf("%s\n", add(-10, 5) == -5 ? "PASS" : "FAIL");
