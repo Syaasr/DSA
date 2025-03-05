@@ -2,7 +2,7 @@ public class Main {
     public static void main(String args[]) {
         // System.out.println("Hello " + args[0] + "!");
         int age = 18;
-        double IPK = 3.91;
+        double IPK = 4.99;
         boolean isSingle = true;
         String name = "Syaikhasril Maulida Firdaus";
 
