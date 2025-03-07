@@ -5,6 +5,7 @@ void calculator(){
     int a, b;
     char c;
     int d;
+    int temp = 0;
     printf("Masukkan angka pertama : ");
     scanf("%d", &a);
     printf("Masukkan angka kedua : ");
