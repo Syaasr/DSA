@@ -2,7 +2,7 @@
 #include <string.h>
 
 #define MAX 100
-
+// mantap
 // Fungsi untuk menghapus elemen duplikat dalam himpunan
 int remove_duplicates(char set[MAX][MAX], int n) {
     char temp[MAX][MAX];
