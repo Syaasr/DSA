@@ -4,6 +4,7 @@
 void calculator(){
     int a, b;
     char c;
+    int te;
     int temp = 0;
     printf("Masukkan angka pertama : ");
     scanf("%d", &a);
