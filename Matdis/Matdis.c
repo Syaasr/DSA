@@ -6,6 +6,7 @@
 int remove_duplicates(char set[MAX][MAX], int n) {
     char temp[MAX][MAX];
     int size = 0;
+    int temp;
     
     for (int i = 0; i < n; i++) {
         int is_duplicate = 0;
