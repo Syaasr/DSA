@@ -5,6 +5,7 @@ public class Main {
         double IPK = 3.91;
         boolean isSingle = true;
         String name = "Syaikhasril Maulida Firdaus";
+        String istri = "belum ada";
 
         System.out.println("Nama : " + name + "\nUmur : " + age + "\nIPK : " + IPK);
 
