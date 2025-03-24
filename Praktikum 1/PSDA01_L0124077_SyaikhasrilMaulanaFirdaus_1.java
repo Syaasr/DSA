@@ -13,6 +13,7 @@ public class PSDA01_L0124077_SyaikhasrilMaulanaFirdaus_1 {
     list.add("Melon");
     list.add("Semangka");
     list.add("Durian");
+    int abc;
 
     // Deklarasi 2 list baru
     ArrayList<String> list_1 = new ArrayList<String>();
