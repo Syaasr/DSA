@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+int tempo;
+
 #define MAX 100
 // Fungsi untuk menghapus elemen duplikat dalam himpunan
 int remove_duplicates(char set[MAX][MAX], int n) {
