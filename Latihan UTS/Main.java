@@ -2,6 +2,7 @@ class Node<T>{
     T data;
     Node<T> prev;
     Node<T> next;
+    int mantap;
 
     Node(T data){
         this.data = data;
